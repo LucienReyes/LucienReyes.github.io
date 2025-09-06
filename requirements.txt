@@ -1,3 +1,0 @@
-keyboard
-discord_webhook
-pyinstaller
